@@ -2,7 +2,7 @@
 name: Bug report Desktop/Browser
 about: Create a report to help us improve
 title: 'Zoho [application name]: [short title]'
-labels: ''
+labels: desktop
 assignees: ''
 
 ---
@@ -11,8 +11,8 @@ assignees: ''
 
 **Device Information**
  - OS: [e.g. iOS, Windows 11]
- - Browser [e.g. Brave, Chrome, Safari]
- - App [e.g. Zoho Mail, Zoho Calendar, Zoho Cliq]
+ - Browser: [e.g. Brave, Chrome, Safari]
+ - App: [e.g. Zoho Mail, Zoho Calendar, Zoho Cliq]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
