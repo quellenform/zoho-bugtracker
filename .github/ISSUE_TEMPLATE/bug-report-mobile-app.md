@@ -2,7 +2,7 @@
 name: Bug report Mobile App
 about: Create a report to help Zoho improve
 title: 'Zoho [application name]: [short title]'
-labels: ''
+labels: mobile
 assignees: ''
 
 ---
@@ -10,10 +10,10 @@ assignees: ''
 (please complete the information below)
 
 **Device Information**
- - Device: [e.g. iPhone15]
- - OS: [e.g. iOS8.1]
- - App [e.g. Zoho Mail, Zoho Calendar, Zoho Cliq]
- - Version [e.g. 1.3.2]
+ - Device: [e.g. iPhone 15]
+ - OS: [e.g. iOS 17.2.1]
+ - App: [e.g. Zoho Mail, Zoho Calendar, Zoho Cliq]
+ - Version: [e.g. 1.3.2]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
