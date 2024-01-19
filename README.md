@@ -1,5 +1,5 @@
 # Zoho Bugtracker (unofficial!)
-This bug tracker is used to record bugs in various [Zoho](https://www.zoho.com/) applications, especially [Zoho Workplace](https://www.zoho.com/workplace/) and [Zoho Mail](https://www.zoho.com/mail/).
+This [bug tracker](https://github.com/quellenform/zoho-bugtracker/issues) is used to record bugs in various [Zoho](https://www.zoho.com/) applications, especially [Zoho Workplace](https://www.zoho.com/workplace/) and [Zoho Mail](https://www.zoho.com/mail/).
 
 *Zoho Workplace* is actually a good idea, and at first glance seems to be trustworthy, complete and a good alternative to competitor products.
 
